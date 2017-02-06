@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "使用者訪談初體驗"
+date:   2017-02-06 16:40:00 +0800
+categories: course
+---
+
 使用者訪談初體驗
 
 密西根大學資訊學院的人機互動（Human Computer Interaction）名聲非常響亮，去年他們總算在 edx 開了網路學程，命名為「User Experience (UX) Research and Design」，目前共有 8+1 堂課：
