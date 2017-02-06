@@ -11,8 +11,8 @@ email: rottonmushroom@gmail.com
 description: I have nothing to say.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rottenmushroom.github.io/ant/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: evaporate87
+github_username:  rottenmushroom
 
 # Build settings
 markdown: kramdown
