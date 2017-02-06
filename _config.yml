@@ -8,7 +8,7 @@
 # Site settings
 title: Ain't my business
 email: rottonmushroom@gmail.com
-description: > I have nothing to say.
+description: I have nothing to say.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rottenmushroom.github.io/ant/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
