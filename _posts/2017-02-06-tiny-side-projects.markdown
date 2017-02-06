@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "每天都是一種練習"
-date:   2017-02-06 15:23:00 +0800
+date:   2017-01-26 15:23:00 +0800
 categories: discover
 ---
 
